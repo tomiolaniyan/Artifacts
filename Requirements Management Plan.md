@@ -55,5 +55,6 @@ Current issues, opportunities, concerns that need to be addressed through improv
 
 ### Conclusion
 This Requirements Management Plan provides a structured approach to capturing, managing, and validating requirements for the project. It aims to ensure that all stakeholder needs are met, risks are mitigated, and the final solution aligns with business objectives.
+---
 
-[RMP](https://github.com/tomiolaniyan/Artifacts/blob/main/Calvary%20Scholarhip%20Board%20RMP%20Template.docx)
+[View RMP](https://github.com/tomiolaniyan/Artifacts/blob/main/Calvary%20Scholarhip%20Board%20RMP%20Template.docx)
