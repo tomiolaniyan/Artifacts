@@ -49,7 +49,7 @@ Current issues, opportunities, concerns that need to be addressed through improv
 ## Functional Requirements
 - Features and capabilities needed by end users.
 - Business rules and data handling. 
--  System integrations and data exchange requirements.
+- System integrations and data exchange requirements.
 
 ---
 
