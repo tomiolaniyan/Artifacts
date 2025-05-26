@@ -10,3 +10,8 @@ A sample display of some BA Artifacts worked on for illustrative purpose
 - Hospital Management System [HMS](https://github.com/tomiolaniyan/Artifacts/blob/main/HMS-Page-1.drawio.png)
 ### Use Case
 - Laundromat Application [Use Case](https://github.com/tomiolaniyan/Artifacts/blob/main/Easywash%20Use%20case.drawio.png)
+### Unified Modeling Language Diagrams (UML)
+- [Context Diagram](https://github.com/tomiolaniyan/Artifacts/blob/main/Brooks%20context%20Diagram-Page-1.drawio.png)
+- [Sequence Diagram](https://github.com/tomiolaniyan/Artifacts/blob/main/Brooks%20Sequence%20diagram-Page-2.drawio.png)
+- [Network Diagram](https://github.com/tomiolaniyan/Artifacts/blob/main/Brooks%20Network%20diagram.drawio.png)
+- [Entity Relationship Diagram](https://github.com/tomiolaniyan/Artifacts/blob/main/Brooks%20Entity%20relationship%20diagram.drawio.png)
