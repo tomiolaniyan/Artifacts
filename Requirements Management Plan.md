@@ -112,7 +112,7 @@ The current process of awarding grants and scholarships involves manual paper fo
 ---
 
 ## Functional Requirements
-
+#### User Story
 As an **applicant**, I want to access the Calvary Scholarship Board portal so that I can **apply for scholarships or grants** and **access relevant services** easily.
 
 ---
