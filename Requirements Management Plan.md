@@ -113,15 +113,9 @@ The current process of awarding grants and scholarships involves manual paper fo
 
 ## Functional Requirements
 
-| **Requirement ID** | **User Story**                             | **Requirements**                                                                                                                                         |
-|---------------------|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1                   |## User Story
-
-> As an **applicant**, I want to access the Calvary Scholarship Board portal so that I can **apply for scholarships or grants** and **access relevant services** easily.
+As an **applicant**, I want to access the Calvary Scholarship Board portal so that I can **apply for scholarships or grants** and **access relevant services** easily.
 
 ---
-
-## Functional Requirements
 
 | **Requirement ID** | **Requirement Description**                                                                                                                                           |
 |---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -136,9 +130,6 @@ The current process of awarding grants and scholarships involves manual paper fo
 | **FR-9**            | The homepage shall feature a **background picture slideshow** showcasing the Board’s **achievements and activities**.                                                  |
 | **FR-10**           | The system shall display **copyright information and the current year** centered at the bottom of the homepage in a smaller font.                                        |
 
----
-
- |
 
 ---
 
