@@ -119,16 +119,16 @@ As an **applicant**, I want to access the Calvary Scholarship Board portal so th
 
 | **Requirement ID** | **Requirement Description**                                                                                                                                           |
 |---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **FR-1**            | When the user enters `https://www.calgaryscholarshipboard.com` in their browser, the system shall display the **homepage** of the Calvary Scholarship Board portal.    |
-| **FR-2**            | The homepage shall contain **navigational tabs** linking to the following sections: **Home**, **Register**, **Apply**, **Track**, **Contact Us**, and **Follow Us**.  |
-| **FR-3**            | The **Home** tab shall be fixed in the header, allowing users to return to the homepage from any section within the portal.                                           |
-| **FR-4**            | When the **Register** tab is selected, the system shall display the **applicant registration form**.                                                                  |
-| **FR-5**            | When the **Apply** tab is selected, the system shall display the **scholarship and grant application form**.                                                           |
-| **FR-6**            | When the **Track** tab is selected, the system shall display the **application tracker page** showing the status of submitted applications.                             |
-| **FR-7**            | When the **Contact Us** tab is selected, the system shall display the Board’s contact information, including **email address, phone number, and office address**.       |
-| **FR-8**            | When the **Follow Us** tab is selected, the system shall display **selectable icons linking to the Board’s social media profiles**.                                     |
-| **FR-9**            | The homepage shall feature a **background picture slideshow** showcasing the Board’s **achievements and activities**.                                                  |
-| **FR-10**           | The system shall display **copyright information and the current year** centered at the bottom of the homepage in a smaller font.                                        |
+| **FR-1**            | When the user enters `https://www.calgaryscholarshipboard.com` in their browser, the system shall display the homepage of the Calvary Scholarship Board portal.    |
+| **FR-2**            | The homepage shall contain navigational tabs linking to the following sections: Home, Register, Apply, Track, Contact Us, and Follow Us.  |
+| **FR-3**            | The Home tab shall be fixed in the header, allowing users to return to the homepage from any section within the portal.                                           |
+| **FR-4**            | When the Register tab is selected, the system shall display the applicant registration form.                                                                  |
+| **FR-5**            | When the Apply tab is selected, the system shall display the scholarship and grant application form.                                                           |
+| **FR-6**            | When the Track tab is selected, the system shall display the application tracker page showing the status of submitted applications.                             |
+| **FR-7**            | When the Contact Us tab is selected, the system shall display the Board’s contact information, including email address, phone number, and office address.       |
+| **FR-8**            | When the Follow Us tab is selected, the system shall display selectable icons linking to the Board’s social media profiles.                                     |
+| **FR-9**            | The homepage shall feature a background picture slideshow showcasing the Board’s achievements and activities.                                                  |
+| **FR-10**           | The system shall display copyright information and the current year centered at the bottom of the homepage in a smaller font.                                        |
 
 
 ---
