@@ -12,7 +12,7 @@ A sample display of some BA Artifacts worked on for illustrative purpose
 - Laundromat Application [Use Case](https://github.com/tomiolaniyan/Artifacts/blob/main/Easywash%20Use%20case.drawio%20(1).png)
 ### Unified Modeling Language Diagrams (UML)
 - [Context Diagram](https://github.com/tomiolaniyan/Artifacts/blob/main/Brooks%20context%20Diagram-Page-1.drawio%20(1).png)
-- [Sequence Diagram](https://github.com/tomiolaniyan/Artifacts/blob/main/Brooks%20Sequence%20diagram-Page-2.drawio.png)
+- [Sequence Diagram](https://github.com/tomiolaniyan/Artifacts/blob/main/Brooks%20Sequence%20diagram-Page-2.drawio%20(1).png)
 - [Network Diagram](https://github.com/tomiolaniyan/Artifacts/blob/main/Brooks%20Network%20diagram.drawio.png)
 - [Entity Relationship Diagram](https://github.com/tomiolaniyan/Artifacts/blob/main/Brooks%20Entity%20relationship%20diagram.drawio.png)
 ### Wireframe
