@@ -14,6 +14,6 @@ A sample display of some BA Artifacts worked on for illustrative purpose
 - [Context Diagram](https://github.com/tomiolaniyan/Artifacts/blob/main/Brooks%20context%20Diagram-Page-1.drawio%20(1).png)
 - [Sequence Diagram](https://github.com/tomiolaniyan/Artifacts/blob/main/Brooks%20Sequence%20diagram-Page-2.drawio%20(1).png)
 - [Network Diagram](https://github.com/tomiolaniyan/Artifacts/blob/main/Brooks%20Network%20diagram.drawio%20(1).png)
-- [Entity Relationship Diagram](https://github.com/tomiolaniyan/Artifacts/blob/main/Brooks%20Entity%20relationship%20diagram.drawio.png)
+- [Entity Relationship Diagram](https://github.com/tomiolaniyan/Artifacts/blob/main/Brooks%20Entity%20relationship%20diagram.drawio%20(1).png)
 ### Wireframe
 - [Low fidelity wireframe](https://github.com/tomiolaniyan/Artifacts/blob/main/Brooks%20Wireframe%201.png)
